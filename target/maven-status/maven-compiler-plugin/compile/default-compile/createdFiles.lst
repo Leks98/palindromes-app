@@ -1,0 +1,10 @@
+com\javafee\springdemo\aspect\PointcutDeclaration.class
+com\javafee\springdemo\dao\PalindromesDao.class
+com\javafee\springdemo\exception\NumberRangeException.class
+com\javafee\springdemo\aspect\LoggingAspect.class
+com\javafee\springdemo\service\PalindromesService.class
+com\javafee\springdemo\controller\PalindromesController.class
+com\javafee\springdemo\controller\HistoryController.class
+com\javafee\springdemo\service\PalindromesServiceImpl.class
+com\javafee\springdemo\dao\PalindromesDaoImpl.class
+com\javafee\springdemo\entity\Numerator.class
